@@ -1,0 +1,49 @@
+﻿Type,Item,Price
+Noodle,Regular ,0
+Noodle,Gluten-free ,0
+Cheese,Cheddar ,0
+Cheese,Pepper Jack ,0
+Cheese,Alfredo ,0
+Meat,No Meat ,0
+Meat,Grilled Chicken ,1.99
+Meat,Pulled Pork ,1.99
+Meat,Brisket ,1.99
+Meat,Bacon ,1.99
+Meat,Ham ,1.99
+Topping,No Toppings ,0
+Topping,Broccoli ,0
+Topping,Corn ,0
+Topping,Onions ,0
+Topping,Jalapenos ,0
+Topping,Tomatoes ,0
+Topping,Bell Peppers ,0
+Topping,Mushrooms ,0
+Topping,Pineapple ,0
+Topping,Parmesan ,0
+Topping,Breadcrumbs ,0
+Drizzle,No Drizzle ,0
+Drizzle,BBQ ,0
+Drizzle,Garlic Parmesan ,0
+Drizzle,Buffalo ,0
+Drizzle,Pesto ,0
+Drizzle,Ranch ,0
+Drizzle,Hot Honey ,0
+Side,No Side ,0
+Side,Garlic Bread ,1.99
+Side,Cheesy Garlic Bread ,1.99
+Side,Cheesecake ,4.99
+Side,Large Chocolate Chunk Cookie ,4.99
+Side,Doritos ,1.99
+Side,Cheetos ,1.99
+Side,Lays Barbecue ,1.99
+Side,Lays Classic ,1.99
+Side,Cheesy Broccoli ,2.99
+Drink,No Drink ,0
+Drink,Water Bottle ,1.49
+Drink,Apple Juice ,2.49
+Drink,Coke ,1.99
+Drink,Dr. Pepper ,1.99
+Drink,Sprite ,1.99
+Drink,Diet Coke ,1.99
+Drink,Powerade (Blue Mountain Berry Blast) ,1.99
+Drink,Minute Maid Lemonade ,1.99
