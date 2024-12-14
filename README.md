@@ -1,3 +1,9 @@
+MacMetrics is an analytical dashboard that displays financial insights and customer behavior to predict trends for a small business. The insights include automated accounting services displaying  revenue acquired based on a certain time period as well as cost deductions and profit margins. These observations are based on real time data from csv files, which are analyzed using the Pandas module. It is built with a user-friendly way to create graphs and compare them with one another as well as simulations for the future using the innovative PowerBI framework. Another feature is a chatbot for a more conversational inquiry, which was prompt engineered. The project was inspired by the Texas A&M Datathon as a way to provide a scalable service tailored to a local business in College Station, Roni’s Mac Ba. As a group, we predict that this project could be further extended to more local establishments for  the good of the community as small businesses are an integral part of the economy making up 44% of market capital.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
